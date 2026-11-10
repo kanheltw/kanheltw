@@ -8,16 +8,16 @@
 
 ---
 
-## Sobre m?
+## Sobre mí
 
-Comparto mi actividad como streamer en [Twitch](https://www.twitch.tv/kanheltw) y desarrollo **Stream Assistant**, una aplicaci?n para reunir herramientas del directo en un solo lugar.
+Comparto mi actividad como streamer en [Twitch](https://www.twitch.tv/kanheltw) y desarrollo **Stream Assistant**, una aplicación para reunir herramientas del directo en un solo lugar.
 
 ## Stream Assistant
 
-Chat y alertas de Twitch, texto a voz local con voces compatibles de Windows o Piper, y controles opcionales para OBS. La aplicaci?n est? en beta p?blica para Windows.
+Chat y alertas de Twitch, texto a voz local con voces compatibles de Windows o Piper, y controles opcionales para OBS. La aplicación está en beta pública para Windows.
 
 - [Descargar Stream Assistant Beta 1](https://github.com/kanheltw/Stream-Assistant-Releases/releases/tag/v0.5.0-beta.1)
-- [Conocer las funciones, instalaci?n y licencia](https://github.com/kanheltw/Stream-Assistant-Releases)
+- [Conocer las funciones, instalación y licencia](https://github.com/kanheltw/Stream-Assistant-Releases)
 - [Enviar comentarios o reportar un problema](https://github.com/kanheltw/Stream-Assistant-feedback/issues/new)
 
 ## Enlaces
@@ -28,4 +28,4 @@ Chat y alertas de Twitch, texto a voz local con voces compatibles de Windows o P
 
 ---
 
-<p align="center"><sub>Gracias por pasarte por aqu?. ?Nos vemos en el chat!</sub></p>
+<p align="center"><sub>Gracias por pasarte por aquí. ¡Nos vemos en el chat!</sub></p>
