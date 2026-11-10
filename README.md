@@ -23,6 +23,7 @@ Chat y alertas de Twitch, texto a voz local con voces compatibles de Windows o P
 ## Enlaces
 
 - **Twitch:** [twitch.tv/kanheltw](https://www.twitch.tv/kanheltw)
+- **X:** [@KanhelTW](https://x.com/KanhelTW)
 - **Descargas:** [Stream Assistant Releases](https://github.com/kanheltw/Stream-Assistant-Releases)
 - **Feedback y soporte:** [Stream Assistant Feedback](https://github.com/kanheltw/Stream-Assistant-feedback)
 
